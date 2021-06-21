@@ -1,8 +1,8 @@
 #
-# Cookbook Name:: ssh
+# Cookbook:: ssh
 # Recipe:: default
 #
-# Copyright (c) 2016 The Authors, All Rights Reserved.
+# Copyright:: (c) 2016 The Authors, All Rights Reserved.
 
 directory '/root/.ssh' do
   recursive true
